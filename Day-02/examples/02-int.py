@@ -13,3 +13,22 @@ print("Modulus (Remainder):", result2)
 # Absolute Value
 result3 = abs(-7)
 print("Absolute Value:", result3)
+
+
+num3 = 15
+num4 = 7
+
+result4 = num3 // num4
+print("integer Division:", result4)
+
+results5 = num3 % num4
+print("modulus (Remainder):", results5)
+
+results6 = abs(-12)
+print("absolute value:", results6)
+
+
+
+
+
+
