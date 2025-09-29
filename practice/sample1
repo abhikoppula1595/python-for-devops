@@ -1,0 +1,8 @@
+num1 = "abhi"
+num2 = "koppula"
+
+sum = num1 + num2
+print("addition:", sum)
+
+sub = num1 - num2
+print("sub:", sub)
