@@ -169,3 +169,7 @@ pattern = r","
 
 split_result = re.split(pattern, text)
 print(split_result)
+
+text = [apple,orange,grapes]
+
+print(text[1:3])
