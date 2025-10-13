@@ -1,3 +1,19 @@
+
+
+![alt text](image.png)
+
+
+In short:
+
+Linux → Base OS that executes everything.
+
+Shell → Interface and scripting layer to automate Linux tasks.
+
+Python → Advanced automation or application logic that goes beyond simple shell commands.
+
+
+
+
 Certainly! The choice between using shell scripting and Python in DevOps depends on the specific task or problem you're trying to solve. Both have their strengths and are suitable for different scenarios. Here are some guidelines to help you decide when to use each:
 
 **Use Shell Scripting When:**
