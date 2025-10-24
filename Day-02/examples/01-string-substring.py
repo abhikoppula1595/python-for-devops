@@ -8,3 +8,6 @@ text = "abhi is good boy"
 substring = "is"
 if substring in text:
     print(substring, "found in text")
+
+
+

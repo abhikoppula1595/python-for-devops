@@ -12,3 +12,4 @@ print("Lowercase:", lowercase)
 
 text = "india"
 print(text.upper())
+print(test.lower())

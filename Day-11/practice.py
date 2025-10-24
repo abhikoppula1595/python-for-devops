@@ -1,17 +1,17 @@
 
-# student1 = {
-#         "name" : "abc",
-#         "age" : 22,
-#         "class" : 20
-#     }
+student1 = {
+        "name" : "abc",
+        "age" : 22,
+        "class" : 20
+    }
 
-# student2 = {
-#         "name" : "abc",
-#         "age" : 22,
-#         "class" : 20
-#     }
+student2 = {
+        "name" : "abc",
+        "age" : 22,
+        "class" : 20
+    }
 
-# print(student2["name"])
+print(student2["name"])
 
 
 ec2_instances_info = [
@@ -25,11 +25,10 @@ ec2_instances_info = [
     }
 ]
 
-
 print(ec2_instances_info[1]["type"])
 
 
-#get pull requestes information of kubernetes gitrepo using python
+#get pull requests information of kubernetes gitrepo using python
 #step-1-request model
 #step-2-api call(github)-urlfor pullrequests
 #step-3-json to dictionary
