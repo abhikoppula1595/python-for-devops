@@ -1,3 +1,7 @@
-import p_calculatorfunction as cal
+#example 1 - importing module(COLLECTION ON FUNCTIONS) 
+# calling other file directly
+import practice as basic_cal
 
-cal.addition()
+basic_cal
+
+

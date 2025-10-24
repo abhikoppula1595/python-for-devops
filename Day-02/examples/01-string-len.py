@@ -1,4 +1,4 @@
-text = "Python is awesome"
+text = ["abhi", "nick", "krish"]
 length = len(text)
 print("Length of the string:", length)
 

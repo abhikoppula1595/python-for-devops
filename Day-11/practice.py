@@ -14,18 +14,19 @@
 # print(student2["name"])
 
 
-# ec2_instances_info = [
-#     {
-#         "id": "0999999-INstance",
-#         "type": "t2.micro"
-#     },
-#     {
-#         "id": "0998-instance",
-#         "type": "t2.medium"
-#     }
-# ]
+ec2_instances_info = [
+    {
+        "id": "0999999-INstance",
+        "type": "t2.micro"
+    },
+    {
+        "id": "0998-instance",
+        "type": "t2.medium"
+    }
+]
 
-# print(ec2_instances_info[1]["type"])
+
+print(ec2_instances_info[1]["type"])
 
 
 #get pull requestes information of kubernetes gitrepo using python
@@ -44,14 +45,14 @@
 
 
 
-import requests
+# import requests
 
-response = requests.get("https://api.github.com/repos/kubernetes/kubernetes/pulls")
+# response = requests.get("https://api.github.com/repos/kubernetes/kubernetes/pulls")
 
-complete_details = response.json()
+# complete_details = response.json()
 
-for i in range(len(complete_details)):
-    print(complete_details[i] ["user"] ["login"])
+# for i in range(len(complete_details)):
+#     print(complete_details[i] ["user"] ["login"])
 
 
 

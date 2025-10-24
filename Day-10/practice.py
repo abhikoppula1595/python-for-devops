@@ -10,10 +10,11 @@ for folder in folders:
         print("please provide a valid folder name")
         continue
 
-    print("\n-------------listing files for the folders: " + folder, flush=true)
+    print("\n-------------listing files for the folders: " + folder, flush=True)
 
     for file in files:
         print(file)
     
-    
+######### 
+
 
